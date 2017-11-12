@@ -1,0 +1,77 @@
+body {
+	background-color: #EEEEEE;
+}
+
+#logo-sau {
+	width: 90px;
+	height: 32px;
+    margin-top: 15px;
+}
+
+.pagina-atual {
+    margin-left: 125px;
+	border-left: 1px solid rgba(255,255,255,0.8);
+    padding-left: 24px;
+    line-height: 32px;
+    font-weight: bold;
+}
+
+.pagina-atual-mobile {
+    margin-right: 10%;
+    font-weight: bold;
+}
+
+.navbar-img a {
+	height: 50px;
+}
+
+.navbar-img a:hover {
+	background-color: rgba(0,0,0,0);
+}
+
+#navbar-img-user {
+    width: 35px;
+    margin-top: 15px;
+}
+
+.imagem-sistema {
+	width: 35%;
+}
+
+.titulo-sistema {
+	font-weight: bold;
+}
+
+.texto-alinhado {
+	text-align: justify;
+}
+
+.icon-default {
+    position: absolute;
+    margin-left: -70px !important;
+}
+
+.menu-titulo {
+    margin-left: 55px;
+}
+
+.titulo-tabs {
+	padding: 30px 0px;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(0,0,0,0.54);
+    margin-bottom: -30px;
+    margin-left: 10px;
+}
+
+.membro-sugerido {
+    padding: 10px 35% 10px;
+}
+
+.nome-membro {
+	font-weight: bold;
+}
+
+.seguir {
+	font-weight: bold;
+}
