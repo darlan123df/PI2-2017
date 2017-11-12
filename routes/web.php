@@ -11,10 +11,6 @@
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
-
 Route::get('/',['as' =>'root','uses'=>function (){
 
     if (Auth::check()){
