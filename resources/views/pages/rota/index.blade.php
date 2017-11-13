@@ -10,8 +10,7 @@ Rota
 
 @section('conteudo')
 
-<div class="row">
-<h1 class="center">Rotas</h1>
-</div>
+@include('pages.rota.card.tableRota')
+@include('pages.rota.button.button')
 
 @stop()

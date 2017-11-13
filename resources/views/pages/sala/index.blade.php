@@ -10,8 +10,7 @@ Salas
 
 @section('conteudo')
 
-<div class="row">
-<h1 class="center">Salas</h1>
-</div>
+@include('pages.sala.card.tableSala')
+@include('pages.sala.button.button')
 
 @stop()

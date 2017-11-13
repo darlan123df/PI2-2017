@@ -10,4 +10,9 @@ class SalaController extends Controller
     {
 		return view('pages.sala.index');
     }
+
+    public function formulario()
+    {
+		return view('pages.sala.formulario');
+    }
 }

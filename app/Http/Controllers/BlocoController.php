@@ -10,4 +10,9 @@ class BlocoController extends Controller
     {
     	return view('pages.bloco.index');
     }
+
+    public function formulario()
+    {
+    	return view('pages.bloco.formulario');
+    }
 }

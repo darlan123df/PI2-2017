@@ -10,8 +10,7 @@ Bloco
 
 @section('conteudo')
 
-<div class="row">
-<h1 class="center">Bloco</h1>
-</div>
+@include('pages.bloco.card.tableCampus')
+@include('pages.bloco.button.button')
 
 @stop()
