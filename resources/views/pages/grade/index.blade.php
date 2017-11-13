@@ -10,8 +10,7 @@ Grade
 
 @section('conteudo')
 
-<div class="row">
-<h1 class="center">Grade</h1>
-</div>
+@include('pages.grade.card.tableGrade')
+@include('pages.grade.button.button')
 
 @stop()

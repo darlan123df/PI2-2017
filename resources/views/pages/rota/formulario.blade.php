@@ -34,10 +34,10 @@
                     <label for="last_name">Origem</label>
                   </div>
 
-                  <div class="input-field col s8">
-                  <label>Orientação</label>
-                  <textarea class="form-control" rows="5" id="orientacao"></textarea>
-                </div>
+									<div class="input-field col s12">
+          					<textarea id="orientacao" class="materialize-textarea"></textarea>
+          					<label for="textarea1">Orientação</label>
+        					</div>
                 </div>
 
               </div>

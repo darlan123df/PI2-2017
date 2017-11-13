@@ -10,4 +10,9 @@ class GradeController extends Controller
     {
     	return view('pages.grade.index');
     }
+
+    public function formulario()
+   {
+     return view('pages.grade.formulario');
+   }
 }
